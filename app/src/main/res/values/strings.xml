@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StellarSky</string>
+
+    <string name="add_city">+</string>
+    <string name="add_city_title">Add location</string>
+
+
+    <string name="search_city">"Find your location ..."</string>
+
+    <!--    Weather detail attributes-->
+    <string name="temp_last_update_placeholder">Last update %1$s</string>
+    <string name="temp_degree_placeholder">%1$s°</string>
+    <string name="temp_min_max_degree_placeholder">%1$s°/%2$s°</string>
+    <string name="temp_daily_title_degree_placeholder">Forecasts (%1$d next days)</string>
+    <string name="list_city">"Locations"</string>
+    <string name="weather_details">Weather</string>
+    <string name="stellar_sky">Stellar Sky</string>
+</resources>
